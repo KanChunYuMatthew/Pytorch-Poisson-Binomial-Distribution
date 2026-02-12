@@ -11,6 +11,17 @@
   - ...
   - Tests
 
+## Meeting (Feb 12, 2026)
+
+- Todo items in the last meeting
+- **Sufficient and series** Benchmarking the exact and approx methods
+  - Time complexity (running time)
+  - TAE of the approx and exact methods: PMF and quantiles
+  - recommendation of the use cases for the exact and approx methods - default arguments for the `PoissonBinomial` class
+- implement `expand` for `PoissonBinomial` class;
+  - Understand the `expand` method in PyTorch; such as `Binomial` <https://github.com/pytorch/pytorch/blob/v2.10.0/torch/distributions/binomial.py#L24>
+  - Implement `expand` for `PoissonBinomial` class;
+  - Testing; example for real application
 
 ## References
 - [On computing the distribution function for the Poisson binomial distribution](https://www.sciencedirect.com/science/article/pii/S0167947312003568)
