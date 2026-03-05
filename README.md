@@ -23,6 +23,12 @@
   - Implement `expand` for `PoissonBinomial` class;
   - Testing; example for real application
 
+## Meeting (Mar 5, 2026)
+
+- Todo items in the last meeting
+- recommendation of the use cases for the exact and approx methods for PMF (2 classes) - default arguments for the `PoissonBinomial` class?
+- recommendation of the use cases for the exact and approx methods for ICDF (3 algos x 2 classes) - default arguments for two classes?
+
 ## References
 - [On computing the distribution function for the Poisson binomial distribution](https://www.sciencedirect.com/science/article/pii/S0167947312003568)
 - [cupy](https://cupy.dev/)
